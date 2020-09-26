@@ -25,6 +25,7 @@ function ageChecker(age) {
 }
 
 function ternaryTeenager(age) {
+  
 
 }
 
