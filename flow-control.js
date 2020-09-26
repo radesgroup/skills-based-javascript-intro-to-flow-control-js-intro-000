@@ -33,6 +33,6 @@ function switchAge(age) {
 swith(age){
   case age>=13 && age<=19:
   return "You are teenager"
-  default: return "You have an" age
+  default: return "You have an age"
 }
 }
